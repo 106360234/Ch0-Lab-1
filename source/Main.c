@@ -3,7 +3,8 @@
 
 int main(void)
 {
-	printf("Welcome to C/n");
+	printf("Welcome to C\n");
+	printf("My name is ¬_§Ó¾±.\n");
 	system("pause");
 	return 0;
 }
